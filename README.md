@@ -1,7 +1,7 @@
 # JAVA2.0
 ==========
 
-JAVA2.0  is  invented  by  wilmix  jemin j  in JDollar(J$)
+JAVA2.0 (JDOLLAR-JAVA) is  invented  by  wilmix  jemin j  in JDollar(J$)
 
 at  year  2016  and it  consists  of  25  modules  simillar  to  Remotewebapplication  SKY  P.L  JDollar.
 
