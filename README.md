@@ -2,7 +2,7 @@
 # JAVA2.0
 ==========
 
-JAVA2.0 (WEB-JAVA) is  invented  by  wilmix  jemin j  inWEB(J$)
+JAVA2.0 (WEB-JAVA) is  invented  by  wilmix  jemin j  in WEB
 
 at  year  2016  and it  consists  of  25  modules  simillar  to  Remotewebapplication  SKY  P.L WEB.
 
