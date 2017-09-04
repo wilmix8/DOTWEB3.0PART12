@@ -6,6 +6,7 @@ JAVA2.0 (WEB-JAVA) is  invented  by  wilmix  jemin j  in JWEB
 
 at  year  2016  and it  consists  of  25  modules  simillar  to  Remotewebapplication  SKY  P.L JWEB.
 
+JAVA2.0   is  part  of  JDollar(JWEB).
 
 JAVA2.0  is  used  only  with  JWEB. Since  in most  cases JAVA P.L class files with  struts  ,spring ,etc   will
 
